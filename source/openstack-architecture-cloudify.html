@@ -3,31 +3,21 @@ layout: bt_about
 title: OpenStack Architecture Made Easy with Cloudify
 category: cloud orchestration cloud automation
 ---
-
-
-		<section id="content">
-			<div class="container">
+<section id="content">			 
+<div class="container">
 				<div class="row">
 					<div class="span6 no-margin">
-						<h1><strong>Cloudify for OpenStack </strong></h1>
-						<h2>Cloudify redesigned to fit natively into OpenStack project</h2>
-						<p> Becoming <em><strong>OpenStack Native</em></strong> is a two part process - integrating with OpenStack components and core services - Nova, Neutron, Cinder, Keystone, Heat, and more, as well as following the implementation guidelines for OpenStack projects.</p>
-						<p>With Cloudify, we took this need seriously and have rewritten our entire product in Python, and have implemented a similar stack and architecture to easily fit right in with any OpenStack project.</p>
-						<br/>
-						
-						<a class="btn btn-theme btn-large btn-rounded" id="downloadBtnInner" href="/downloads/get_cloudify_3x.html"><i class="icon-download"></i>  Download Now</a>
-						&nbsp; &nbsp;
-						<a class="btn btn-green btn-large btn-rounded" id="goProInner" href="/goPro.html"><i class="icon-plus"></i>  Go Pro!</a>
-
-					
-						</div>
+						<h1><strong>用于OpenStack的Cloudify1 </strong></h1>
+						<h2>Cloudify经过了重新设计以在本机适合OpenStack项目</h2>
+						<p>成为 <em><strong>OpenStack Native</em></strong>是一个两部分组成的程序 - 与OpenStack组件和核心服务（Nova、Neutron、Cinder、Keystone、Heat、以及更多整合），以及遵循 OpenStack 项目的执行指南。</p>
+						<p>通过Cloudify，我们非常重视这一需求，在Python中重新编写了我们的整个产品，并实施了一个类似的堆栈和架构以轻松适合任何OpenStack项目。</p><br/> <a class="btn btn-theme btn-large btn-rounded" id="downloadBtnInner" href="/downloads/get_cloudify_3x.html"><i class="icon-download"></i> 马上下载</a> &nbsp; &nbsp; <a class="btn btn-green btn-large btn-rounded" id="goProInner" href="/goPro.html"><i class="icon-plus"></i> Go Pro!</a>						 					  </div>
 					<div class="span6">
 						<!-- start flexslider -->
 						<div class="flexslider">
 							<ul class="slides">
 								<li>
-								<a class="hover-wrap fancybox fancybox.iframe" data-fancybox-group="gallery" title="Cloudify Your App on OpenStack Cloud" href="http://www.youtube.com/embed/byuYoplsabw?enablejsapi=1&wmode=opaque">
-								<img src="img/OpenStackVid.png" alt="OpenStack Orchestration | OpenStack Architecture | OpenStack Native" /></a>
+								<a class="hover-wrap fancybox fancybox.iframe" data-fancybox-group="gallery" title="在OpenStack云上Cloudify 您的应用" href="http://www.youtube.com/embed/tfQLkjkCmHA?enablejsapi=1&wmode=opaque">
+								<img src="img/AboutThumbnailOS.png" alt="" /></a>
 								</li>
 							</ul>
 						</div>
@@ -39,7 +29,7 @@ category: cloud orchestration cloud automation
 				<div class="container">
 				<div class="row">
 				<div class="span12">
-					<h1><strong>Core Features</strong></h1>
+					<h1><strong>核心功能</strong></h1>
 					
 				<hr/>
 
@@ -61,15 +51,13 @@ category: cloud orchestration cloud automation
 							</div>
 							</div>
 								<div class="span7">
-								<h4><strong>Support for OpenStack Orchestration (Heat)</strong></h4>
-								<p>OpenStack Heat  provides an infrastructure orchestration framework and is a core service within OpenStack.</p>
-								<p><strong><font color="#00B4DA" style="font-size:16px;">Cloudify integrates with Heat out of the box</font></strong></p>
+								<h4><strong>支持OpenStack Orchestration（Heat）</strong></h4>
+								<p>OpenStack Heat提供一种基础构架编排框架，并且是OpenStack内的一种核心服务。</p>
+								<p><strong><font color="#00B4DA" style="font-size:16px;">Cloudify与Heat相整合 </font></strong></p>
 								<ul>
-								<li><strong>Cloudify Heat Template</strong>
-								<p>Cloudify can be provisioned on an OpenStack environment using a Heat template. OpenStack users can use this template to modify and control the Cloudify manager configuration just like they would with any other service.</p>
+								<li><strong>Cloudify Heat 模板</strong>								 <p>可以使用一种Heat模板在一种OpenStack 环境中提供Cloudify。OpenStack 用于能够使用该模板修改和控制Cloudify管理器配置，就像对任何其它服务一样。</p>
 								</li>
-								<li><strong>Infrastructure Orchestration(*)</strong>
-								<p>Users can setup their OpenStack infrastructure (machines, storage, networking, directly through Heat and add Cloudify as a service on-top of that environment. Cloudify adds monitoring, logging, alerts, analytics,  workflow automation, software stack configuration, and dependency management just to name a few. The Cloudify Heat plugin can also be used to deploy any given Heat stack (in the even that it has not been deployed already), along with any other Cloudify component,through the same deployment commands.</p>
+								<li><strong>基础构架编排 （*）</strong>								 <p>用户可以直接通过Heat设置他们的 OpenStack基础构架（机器、存储、网络），并将Cloudify作为一种服务添加于该环境之上。Cloudify能够添加诸如管理、记录、提醒、分析、工作流自动化、软件堆栈配置，以及依存关系管理等功能。Cloudify Heat 插件也可通过相同的部署命令用于部署任何给出的Heat堆栈（若还未部署的话），以及任何其它Cloudify 组件。</p>
 								</li>								
 								</ul>
 							</div>
@@ -82,8 +70,8 @@ category: cloud orchestration cloud automation
 							</div>
 							</div>
 								<div class="span7">
-								<h4><strong><font color="#00B4DA" style="font-size:16px;">Built-in Network Orchestration with Neutron</font></strong></h4>
-								<p>Networking becomes a core service in any cloud deployment. Networking refers to any element under this general group of services, including security groups, private IPs, floating IPs, along with routers, DNS, vLANs, load balancers, and any other required networking function. Cloudify 3.0 includes support for all the networking elements, and can help automate the creation and management of these networking requirements all as part of the application deployment.</p>
+								<h4><strong><font color="#00B4DA" style="font-size:16px;">使用Neutron的内建网络编排</font></strong></h4>
+								<p>网络连接成为了任何云部署中的一种核心服务。网络连接指的是任何在该通用服务组中的元件，包括安全组、私人IP、浮动IP，以及路由器、DNS、vLANs、负载均衡器，以及任何其它所要求的网络连接功能。Cloudify 3.0 包括对所有网络连接元件的支持，并可以帮助自动化这些网络连接要求的创建和管理作为应用部署的一部分。</p>
 															
 							</div>
 							</div>
@@ -97,8 +85,8 @@ category: cloud orchestration cloud automation
 			<div class="row">
 			<div class="span12">
 				<div class="aligncenter">
-				<img src="img/HPTile-Tools.png" width="400">
-				<h2><strong><font color="#00B4DA" style="font-size:16px;">Integrating Your Entire Automation and Monitoring Tool Chain</font></strong></h2>
+				<img src="img/Orchestration-2.png" width="400">
+				<h2><strong><font color="#00B4DA" style="font-size:16px;">整合您的整个自动化和监控工具链</font></strong></h2>
 				</div>
 				</div>
 				<div class="row">
@@ -108,15 +96,15 @@ category: cloud orchestration cloud automation
 						<div class="box alignjustify">
 								<div class="text">
 								<br/>								
-								<p>A typical automated environment does not end with configuration management; it typically involves a varied and fluctuating toolchain to manage provisioning, configuration management, logging & monitoring, real-time analytics and workflow automation.</p>
-								<p>Cloudify brings together a variety of tools that are used throughout the various stages of the application lifecycle:</p>
+								<p>一种典型的自动化环境不会以配置管理而结束；它通常涉及各种各样波动性工具链以管理供应、配置环境、记录和监控、实时分析，以及工作流自动化。</p>
+								<p>Cloudify云集了应用使用周期的各种不同阶段所使用的各种各样的工具。</p>
 								<ul>
-								<li>Configuration management tools, such as Chef, Puppet, Fabric and Docker</li>
-								<li>Infrastructure orchestration tools, such as OpenStack Heat</li>
-								<li>Logging and monitoring tools, such as logstash and elasticsearch</li>
-								<li>Real-time analytics tools, such as Reimann.IO</li>
+								<li>配置管理工具，如：Chef、Puppet、Fabric和Docker</li>
+								<li>基础设施编排工具，如：OpenStack Heat</li>
+								<li>记录和监控工具，如：logstash和Elasticsearch</li>
+								<li>实时分析工具，如：Reimann.io</li>
 								</ul>
-								<p>In doing so, Cloudify promotes common industry best practices, making it easy to integrate and use best of breed tools to manage your environment. . In addition, Cloudify 3.0 comes with a new plug-in architecture that allows to easily  integrate of a wide range of tools for monitoring, configuration management and cloud infrastructure.</p>
+								<p>这样做的话，Cloudify能够推进行业最佳实践惯例，使其易于整合和使用最佳工具以管理您的环境。此外，Cloudify 3.0 还配有一个新的插件架构让您能够轻松整合用于监控、配置管理和云基础设施的范围广泛的工具。</p>
 								
 							</div>
 						</div>
@@ -135,7 +123,7 @@ category: cloud orchestration cloud automation
 	<div class="container">
 	<div class="row">
 	<div class="span12">
-	<div class="aligncenter"><h2><strong>More OpenStack Goodness</strong></h2></div>
+	<div class="aligncenter"><h2><strong>更多OpenStack精华</strong></h2></div>
 				</div>
 				<div class="row">
 						<div class="span3">
@@ -146,8 +134,8 @@ category: cloud orchestration cloud automation
 							</div>
 							<div class="text">
 							<br/>
-								<h4><strong><a href="/guide/plugin-openstack.html#nova-net-support" target="_blank">Support for OpenStack Compute (Nova)</a></strong></h4>
-								<p>Users can create machine instances, provision their software stack (even multi-tier stacks), manage their dependencies, add logging, monitoring, and policies on top, all using the OpenStack standard orchestration language - TOSCA.</p>
+								<h4><strong>支持OpenStack 计算(Nova)</strong></h4>
+								<p>用户可以创建机器实例，提供他们的软件堆栈（甚至多层堆栈）、管理它们的依存关系，以及记录、监控和相关政策，均使用OpenStack标准编排语言- TOSCA。</p>
 								
 							</div>
 						</div>
@@ -161,8 +149,8 @@ category: cloud orchestration cloud automation
 							</div>
 							<div class="text">
 								<br/>
-								<h4><strong><a href="/guide/dsl-spec-general.html" target="_blank">TOSCA Support</a></strong></h4>
-								<p>Cloudify 3.0 uses the<a href="https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=tosca" target="_blank"> TOSCA (Topology and Orchestration Specification for Cloud Applications)</a>  specification as its standard templating language. The current integration includes mapping of the current HOT template into the Cloudify/TOSCA format. We are also working with the Heat team to have official support for TOSCA as a standard templating language within Heat.</p>
+								<h4><strong>TOSCA 支持</strong></h4>
+								<p>Cloudify 3.0 使用<a href="https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=tosca" target="_blank"> TOSCA（云应用拓扑结构和编排规范）</a> 规范作为其标准模板语言。当前集合包括将当前HOT模板映射到Cloudify/TOSCA格式中。我们还与Heat团队合作以获得对TOSCA作为Heat内的标准模板语言的官方支持。</p>
 							
 							</div>
 						</div>
@@ -175,8 +163,8 @@ category: cloud orchestration cloud automation
 							</div>
 							<div class="text">
 							<br/>
-								<h4><strong><a href="/guide/plugin-vsphere.html" target="_blank">VMware Support</a></strong></h4>
-								<p>Users can create machine instances, provision their software stack (even multi-tier stacks), manage their dependencies, add logging, monitoring, and policies on top, all using the OpenStack standard orchestration language - TOSCA.</p>
+								<h4><strong>VMware支持</strong></h4>
+								<p>用户可以创建机器实例，提供他们的软件堆栈（甚至多层堆栈）、管理它们的依存关系，以及记录、监控和相关政策，均使用OpenStack标准编排语言- TOSCA。</p>
 								
 							</div>
 						</div>
@@ -190,8 +178,8 @@ category: cloud orchestration cloud automation
 							</div>
 							<div class="text">
 							<br/>
-								<h4><strong>AWS and Other Public Cloud Support</strong></h4>
-								<p>While OpenStack is becoming the de-facto standard for private cloud, the public cloud arena is still mostly dominated by AWS and GCE. Cloudify comes with built-in support for other public clouds making it simpler for OpenStack users to expand their OpenStack environment into AWS or other public clouds on-demand.</p>
+								<h4><strong>AWS 和其它公共云支持</strong></h4>
+								<p>尽管OpenStack正在逐渐成为私人云的实际标准，公共云领域仍然由AWS和GCE主导。Cloudify 拥有对其它公共云的内建支持，使得OpenStack用户能够应要求轻松将他们的OpenStack 环境扩展到AWS或者其它公共云中。</p>
 								
 							</div>
 						</div>
@@ -210,29 +198,22 @@ category: cloud orchestration cloud automation
 
 				<div class="row">
 				<div class="span12">
-						<h1><strong>Getting Started</strong></h1>
+						<h1><strong>开始</strong></h1>
 						<hr/>
 					<ul>
-								<li><a href="/guide/installation-openstack-provider.html" target="_blank">Getting Started with Cloudify and OpenStack</a></li>
-								<li><a href="http://getcloudify.org/2014/07/29/DevStack-Boostrap-Cloudify.html" target="_blank">Setting Up Cloudify on DevStack</a></li>
-								<li><a href="http://getcloudify.org/2014/07/07/openstack-orchestration-heat-devstack.html" target="_blank">How to Bootstrap the Cloudify Manager with a Heat Template</a></li>
+								<li><a href="http://getcloudify.org/guide/3.0/installation-openstack-provider.html" target="_blank">开始使用 Cloudify 和 OpenStack</a></li>
+								<li><a href="http://getcloudify.org/2014/07/29/DevStack-Boostrap-Cloudify.html" target="_blank">在DevStack上设置Cloudify</a></li>
+								<li><a href="http://getcloudify.org/2014/07/07/openstack-orchestration-heat-devstack.html" target="_blank">如何使用Heat模板引导Cloudify管理器</a></li>
 								</ul>
 				<hr/>
 				<div class="row">
 		<div class="span2"></div>
 		<div class="span8">
 				<div class="aligncenter">
-				<h2><strong>Learn more about Cloudify Premium<sup>TM</sup> or Download Now</sup></strong></h2>
-						<br/>
-							<a class="btn btn-large btn-green btn-rounded" id="goProInner" href="/goPro.html"><i class="icon-plus"></i>  Go Pro!</a>
-							&nbsp; &nbsp;
-							<a class="btn btn-large btn-theme btn-rounded" id="downloadBtnInner" href="/downloads/get_cloudify_3x.html"><i class="icon-download"></i>  Download Now</a>
-							<br/>
-							</br>
-							</div>
+				<h2><strong>了解更多关于Cloudify 付费版<sup>TM</sup>的信息或者马上下载</sup></strong></h2><br/> <a class="btn btn-large btn-green btn-rounded" id="goProInner" href="/goPro.html"><i class="icon-plus"></i> Go Pro!</a> &nbsp; &nbsp; <a class="btn btn-large btn-theme btn-rounded" id="downloadBtnInner" href="/downloads/get_cloudify_3x.html"><i class="icon-download"></i>马上下载</a> <br/> </br>							 </div>
 						</div>
 						</div>
-						<div class="span2"></div>
+						<div class="span2"> </div> 
 					</div>
 					</div>
 					</section>
