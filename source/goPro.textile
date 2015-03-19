@@ -1,56 +1,798 @@
----
-layout: bt_about
-title: Cloudify Premium | Go Pro
-category: Go Pro
----
+﻿---布局：bt_about标题：高级Cloudify|Go Pro类别：Go Pro--- <notextile>
 
- 
+
+
 	<section id="content">
+
 	<div class="container">
+
 		<div class="row">
-			<!--<div class="span6">was if you use slider make it span6-->
+
 					<div class="span12">			
-						<h1><i class="icon-briefcase"></i>Cloudify<strong> Premium<sup><small>TM</sup></small></h1></strong>
 
-<h2><strong>Cloud Orchestration Made Easy for Existing and New Enterprise Applications</strong></h2>
-<p>Premium Edition includes everything in the free edition, plus specific features for advanced deployments.</p>
+						<h1>高级<i class="icon-briefcase"></i>Cloudify<strong><sup><small>TM</sup></small></h1></strong>
 
-<p>Cloudify Premium makes it even easier for enterprises to automate their cloud orchestration. With increased
-support and enhanced features, Cloudify Premium lets you take your cloud orchestration to the next level.</p>
+
+
+<h2><strong>云编写使现有和新的企业申请变得容易</strong></h2>
+
+<p>高级版包括免费版本中的一切，再加上用于高级使用的特定的功能。</p>
+
+
+
+<p>高级Cloudify使得企业自动化他们的云编写变得更容易。随着更多的支持和增强的功能，高级Cloudify把您的云编排带到一个新的水平。</p>
+
+
+
 
 
 	<section id="content">
-	<div class="container">
-		<div class="row">
-			<div class="span12">
-			<h2><strong>Feature highlights:</strong></h2>
 
-			<p><img src="img/Enterprise-GradeSupport.png" width="48"> Enterprise-Grade Support</p>
-			<p><img src="img/WebInterface.png" width="48"> Advanced Management & Monitoring with Comprehensive Web UI</p>
-			<p><img src="img/BlueprintCatalog.png" width="48"> Blueprint Catalog</p>
-			<p><img src="img/Premium-Plugins.png" width="48"> Premium Plugins</p>
-			<p><img src="img/AdvancedBlueprints.png" width="48"> Advanced Blueprints</p>	
+	<div class="container">
+
+		<div class="row">
+
+			<div class="span12">
+
+			<h2><strong>功能重点：</strong></h2>
+
+
+
+			<p><img src="img/Enterprise-GradeSupport.png" width="48" />企业级支持</p>
+
+			<p><img src="img/WebInterface.png" width="48" /> 带有全面的网络用户界面的先进的管理与监控</p>
+
+			<p><img src="img/BlueprintCatalog.png" width="48" /> 蓝图目录</p>
+
+			<p><img src="img/Premium-Plugins.png" width="48" /> 高级插件</p>
+
+			<p><img src="img/AdvancedBlueprints.png" width="48" /> 高级蓝图</p>	
+
+
 
 			</div>
+
+
+
+			</div>
+
+			</div>
+
+			</section>
+
+
+
+<section id="content">
+
+<div class="row">
+
+<div class="span12">
+
+<div class="aligncenter">
+
+<button type="button" data-toggle="collapse" data-target="#collapsibletable" class="btn btn-medium btn-inverse btn-toggle"><i class="icon-plus"></i>比较Cloudify版本</button></div>
+
+<div class="collapse" id="collapsibletable"> 
+
+<div class="aligncenter">
+
+<h2><strong>全部功能列表</strong></h2></div>		
+
+<table border="1" cellpadding="8" align="center" cellspacing="1" style="width: 800px;">
+
+<tbody>
+
+<tr>
+
+<td style="width: 500px;">
+
+					<h3><strong>特点</strong></h3></td>
+
+<td style="width: 100px; text-align: center;">
+
+					<h3><strong>开源</strong></h3></td>
+
+<td style="width: 100px; text-align: center;">
+
+					<h3><strong>高级</strong></h3></td>
+
+<td style="width: 100px; text-align: center;">
+
+					<h3><strong>可用性</strong></h3></td>
+
+</tr>
+
+<tr>
+
+<td style="width: 500px;">
+
+					用TOSCA部署建模&nbsp;<button type="button" data-toggle="collapse" data-target="#collapsible" class="btn btn-mini btn-theme btn-toggle" style="float: right;"><i class="icon-plus"></i></button>
+
+					<div class="collapse" id="collapsible"> 
+
+                                   <p><strong>丰富的建模语言实现TOSCA简化的YAML简介</strong></p>		
+
+                                  </div></td>
+
+
+
+<td style="width: 100px; text-align: center;"><h3><strong><font color="#66b11c"><i class="icon-ok"></i></font></strong></h3>
+
+					</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong><font color="#66b11c"><i class="icon-ok"></i></font></strong></h3>
+
+					</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong>已发布</strong></h3></td>
+
+</tr>
+
+<tr>
+
+<td style="width: 500px;">
+
+					可扩展的基于Python的工作流引擎&nbsp;<button type="button" data-toggle="collapse" data-target="#collapsible1" class="btn btn-mini btn-theme btn-toggle" style="float: right;"><i class="icon-plus"></i></button>
+
+					<div class="collapse" id="collapsible1"> 
+
+                                   <p><strong>对每个部署的轻量化和孤立的工作流引擎，允许内置和自定义工作流</strong></p>		
+
+                                  </div>	
+
+					</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong><font color="#66b11c"><i class="icon-ok"></i></font></strong></h3>
+
+					</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong><font color="#66b11c"><i class="icon-ok"></i></font></strong></h3>
+
+					</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong>已发布</strong></h3></td>
+
+</tr>
+
+
+
+<tr>
+
+<td style="width: 500px;">
+
+					内置的部署工作流，取消部署，在使用的组件上执行任意命令</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong><font color="#66b11c"><i class="icon-ok"></i></font></strong></h3>
+
+					</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong><font color="#66b11c"><i class="icon-ok"></i></font></strong></h3>
+
+					</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong>已发布</strong></h3></td>
+
+</tr>
+
+
+
+
+
+<tr>
+
+<td style="width: 500px;">
+
+					指标和日志收集&nbsp;<button type="button" data-toggle="collapse" data-target="#collapsible2" class="btn btn-mini btn-theme btn-toggle" style="float: right;"><i class="icon-plus"></i></button>
+
+					<div class="collapse" id="collapsible2"> 
+
+                                   <p><strong>平台和应用程序的日志和指标的收集和和存储</strong></p>		
+
+                                  </div>
+
+
+
+					</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong><font color="#66b11c"><i class="icon-ok"></i></font></strong></h3>
+
+					</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong><font color="#66b11c"><i class="icon-ok"></i></font></strong></h3>
+
+					</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong>已发布</strong></h3></td>
+
+</tr>
+
+
+
+<tr>
+
+<td style="width: 500px;">
+
+					可扩展的策略引擎&nbsp;<button type="button" data-toggle="collapse" data-target="#collapsible3" class="btn btn-mini btn-theme btn-toggle" style="float: right;"><i class="icon-plus"></i></button>
+
+					<div class="collapse" id="collapsible3"> 
+
+                                   <p> <strong>基于Riemann.io 策略的引擎，用于摄取，加工，并使得送给经理的指标有意义，并触发应用程序上的弥补性行动上（通常通过调用工作流引擎）</strong></p>		
+
+                                  </div></td>
+
+<td style="width: 100px; text-align: center;"><h3><strong><font color="#66b11c"><i class="icon-ok"></i></font></strong></h3>
+
+					</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong><font color="#66b11c"><i class="icon-ok"></i></font></strong></h3>
+
+					</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong>已发布</strong></h3></td>
+
+</tr>
+
+
+
+<tr>
+
+<td style="width: 500px;">
+
+					REST API&nbsp;<button type="button" data-toggle="collapse" data-target="#collapsible4" class="btn btn-mini btn-theme btn-toggle" style="float: right;"><i class="icon-plus"></i></button>
+
+					<div class="collapse" id="collapsible4"> 
+
+                                   <p><strong>全面的API，支持所有Cloudify功能</strong></p>		
+
+                                  </div></td>
+
+<td style="width: 100px; text-align: center;"><h3><strong><font color="#66b11c"><i class="icon-ok"></i></font></strong></h3>
+
+					</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong><font color="#66b11c"><i class="icon-ok"></i></font></strong></h3>
+
+					</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong>已发布</strong></h3></td>
+
+</tr>
+
+
+
+<tr>
+
+<td style="width: 500px;">
+
+					丰富CLI&nbsp;<button type="button" data-toggle="collapse" data-target="#collapsible5" class="btn btn-mini btn-theme btn-toggle" style="float: right;"><i class="icon-plus"></i></button>
+
+					<div class="collapse" id="collapsible5"> 
+
+                                   <p><strong>支持所有的REST API的操作和功能的简单CLI程序</strong></p>		
+
+                                  </div></td>
+
+<td style="width: 100px; text-align: center;"><h3><strong><font color="#66b11c"><i class="icon-ok"></i></font></strong></h3>
+
+					</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong><font color="#66b11c"><i class="icon-ok"></i></font></strong></h3>
+
+					</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong>已发布</strong></h3></td>
+
+</tr>
+
+<tr>
+
+<td style="width: 500px;">
+
+					OpenStack，CloudStack，AWS插件</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong><font color="#66b11c"><i class="icon-ok"></i></font></strong></h3>
+
+					</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong><font color="#66b11c"><i class="icon-ok"></i></font></strong></h3>
+
+					</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong>已发布</strong></h3></td>
+
+</tr>
+
+
+
+<tr>
+
+<td style="width: 500px;">
+
+					Chef, Puppet, Docker, Fabric, SaltStack 插件</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong><font color="#66b11c"><i class="icon-ok"></i></font></strong></h3>
+
+					</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong><font color="#66b11c"><i class="icon-ok"></i></font></strong></h3>
+
+					</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong>已发布</strong></h3></td>
+
+</tr>
+
+
+
+<tr>
+
+<td style="width: 500px;">
+
+					网络用户界面（包括监控）&nbsp;<button type="button" data-toggle="collapse" data-target="#collapsible6" class="btn btn-mini btn-theme btn-toggle" style="float: right;"><i class="icon-plus"></i></button>
+
+					<div class="collapse" id="collapsible6"> 
+
+                                   <p><strong>丰富的网络用户界面，包括蓝图可视化，部署创建，工作流程执行和日志聚合。还包括使用Grafana的内置的仪表盘屏幕</strong></p>		
+
+                                  </div></td>
+
+<td style="width: 100px; text-align: center;"><h3><strong><font color="#66b11c"><i class="icon-ok"></i></font></strong></h3>
+
+					</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong><font color="#66b11c"><i class="icon-ok"></i></font></strong></h3>
+
+					</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong>已发布</strong></h3></td>
+
+</tr>
+
+
+
+<tr>
+
+<td style="width: 500px;">
+
+					vSphere插件</td>
+
+<td style="width: 100px; text-align: center;">
+
+					&nbsp;</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong><font color="#66b11c"><i class="icon-ok"></i></font></strong></h3>
+
+					</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong>已发布</strong></h3></td>
+
+</tr>
+
+
+
+<tr>
+
+<td style="width: 500px;">
+
+					SoftLayer插件</td>
+
+<td style="width: 100px; text-align: center;">
+
+					&nbsp;</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong><font color="#66b11c"><i class="icon-ok"></i></font></strong></h3>
+
+					</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong>已发布</strong></h3></td>
+
+</tr>
+
+
+
+<tr>
+
+<td style="width: 500px;">
+
+					IPv6支持</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong><font color="#66b11c"><i class="icon-ok"></i></font></strong></h3>
+
+					</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong><font color="#66b11c"><i class="icon-ok"></i></font></strong></h3>
+
+					</td>
+
+<td style="width: 100px; text-align: center;"><h3> 3.2<strong></strong></h3></td>
+
+</tr>
+
+<tr>
+
+<td style="width: 500px;">
+
+					vClo​​ud插件</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong><font color="#66b11c"><i class="icon-ok"></i></font></strong></h3>
+
+					</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong><font color="#66b11c"><i class="icon-ok"></i></font></strong></h3>
+
+					</td>
+
+<td style="width: 100px; text-align: center;"><h3> 3.2<strong></strong></h3></td>
+
+</tr>
+
+<tr>
+
+<td style="width: 500px;">
+
+					安全性 -  AuthN</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong><font color="#66b11c"><i class="icon-ok"></i></font></strong></h3>
+
+					</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong><font color="#66b11c"><i class="icon-ok"></i></font></strong></h3>
+
+					</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong> 3.2</strong></h3></td>
+
+</tr>
+
+<tr>
+
+<td style="width: 500px;">
+
+					安全性 - Authz&nbsp;<button type="button" data-toggle="collapse" data-target="#collapsible7" class="btn btn-mini btn-theme btn-toggle" style="float: right;"><i class="icon-plus"></i></button>
+
+					<div class="collapse" id="collapsible7"> 
+
+                                   <p>支持的角色和权限<strong></strong></p>		
+
+                                  </div></td>
+
+<td style="width: 100px; text-align: center;">
+
+					&nbsp;</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong><font color="#66b11c"><i class="icon-ok"></i></font></strong></h3>
+
+					</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong> 3.2</strong></h3></td>
+
+</tr>
+
+
+
+<tr>
+
+<td style="width: 500px;">
+
+					管理器恢复（在OpenStack上）&nbsp;<button type="button" data-toggle="collapse" data-target="#collapsible8" class="btn btn-mini btn-theme btn-toggle" style="float: right;"><i class="icon-plus"></i></button>
+
+					<div class="collapse" id="collapsible8"> 
+
+                                   <p>故障/计划停机后，支持恢复管理器状态和部署相关资源<strong></strong></p>		
+
+                                  </div></td>
+
+<td style="width: 100px; text-align: center;"><h3><strong><font color="#66b11c"><i class="icon-ok"></i></font></strong></h3>
+
+					</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong><font color="#66b11c"><i class="icon-ok"></i></font></strong></h3>
+
+					</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong> 3.2</strong></h3></td>
+
+</tr>
+
+<tr>
+
+<td style="width: 500px;">
+
+					管理器恢复看守者&nbsp;<button type="button" data-toggle="collapse" data-target="#collapsible9" class="btn btn-mini btn-theme btn-toggle" style="float: right;"><i class="icon-plus"></i></button>
+
+					<div class="collapse" id="collapsible9"> 
+
+                                   <p><strong>使用管理器恢复能力，故障后，通过使用专用的看守者自动启动管理器，使事情自动化</strong></p>		
+
+                                  </div></td>
+
+<td style="width: 100px; text-align: center;">
+
+					&nbsp;</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong><font color="#66b11c"><i class="icon-ok"></i></font></strong></h3>
+
+					</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong> 3.2</strong></h3></td>
+
+</tr>
+
+
+
+<tr>
+
+<td style="width: 500px;">
+
+					进行自动修复和应用程序组件缩放的内置的策略和工作流程</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong><font color="#66b11c"><i class="icon-ok"></i></font></strong></h3>
+
+					</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong><font color="#66b11c"><i class="icon-ok"></i></font></strong></h3>
+
+					</td>
+
+<td style="width: 100px; text-align: center;"><h3> <strong>3.2-3.3</strong></h3></td>
+
+</tr>
+
+<tr>
+
+<td style="width: 500px;">
+
+					视觉蓝图作曲家&nbsp;<button type="button" data-toggle="collapse" data-target="#collapsible10" class="btn btn-mini btn-theme btn-toggle" style="float: right;"><i class="icon-plus"></i></button>
+
+					<div class="collapse" id="collapsible10"> 
+
+                                   <p><strong>使用一个可视化的网络为的基础的拖放编辑器编写蓝图</strong></p>		
+
+                                  </div></td>
+
+<td style="width: 100px; text-align: center;">
+
+					&nbsp;</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong><font color="#66b11c"><i class="icon-ok"></i></font></strong></h3>
+
+					</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong> 3.3</strong></h3></td>
+
+</tr>
+
+
+
+<tr>
+
+<td style="width: 500px;">
+
+					多租户&nbsp;<button type="button" data-toggle="collapse" data-target="#collapsible11" class="btn btn-mini btn-theme btn-toggle" style="float: right;"><i class="icon-plus"></i></button>
+
+					<div class="collapse" id="collapsible11"> 
+
+                                   <p><strong>支持在同一个经理器和基础设施工作的用户之间的物品隔离。</strong></p>		
+
+                                  </div></td>
+
+<td style="width: 100px; text-align: center;">
+
+					&nbsp;</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong><font color="#66b11c"><i class="icon-ok"></i></font></strong></h3>
+
+					</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong> 3.3</strong></h3></td>
+
+</tr>
+
+
+
+<tr class="collapsible collapsed">
+
+<td style="width: 500px;">
+
+					经理分布式蓝图&nbsp;<button type="button" data-toggle="collapse" data-target="#collapsible12" class="btn btn-mini btn-theme btn-toggle" style="float: right;"><i class="icon-plus"></i></button>
+
+					<div class="collapse" id="collapsible12"> 
+
+                                   <p><strong>一个经理的蓝图，它允许用户分发Cloudify 管理者组件到多台主机，具有可扩展性和适应性。</strong></p>		
+
+                                  </div></td>
+
+<td style="width: 100px; text-align: center;">
+
+					&nbsp;</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong><font color="#66b11c"><i class="icon-ok"></i></font></strong></h3>
+
+					</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong> 3.3</strong></h3></td>
+
+</tr>
+
+<tr>
+
+<td style="width: 500px;">
+
+					经理HA&nbsp;<button type="button" data-toggle="collapse" data-target="#collapsible13" class="btn btn-mini btn-theme btn-toggle" style="float: right;"><i class="icon-plus"></i></button>
+
+					<div class="collapse" id="collapsible13"> 
+
+                                   <p><strong>支持热管理器故障切换到备用管理器主机。</strong></p>		
+
+                                  </div></td>
+
+<td style="width: 100px; text-align: center;">
+
+					&nbsp;</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong><font color="#66b11c"><i class="icon-ok"></i></font></strong></h3>
+
+					</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong> 3.3</strong></h3></td>
+
+</tr>
+
+<tr>
+
+<td style="width: 500px;">
+
+					蓝图目录&nbsp;<button type="button" data-toggle="collapse" data-target="#collapsible14" class="btn btn-mini btn-theme btn-toggle" style="float: right;"><i class="icon-plus"></i></button>
+
+					<div class="collapse" id="collapsible14"> 
+
+                                   <p><strong>基于Git的目录，用于管理和部署Cloudify蓝图，支持基于角色的访问和权限。</strong></p>		
+
+                                  </div></td>
+
+<td style="width: 100px; text-align: center;">
+
+					&nbsp;</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong><font color="#66b11c"><i class="icon-ok"></i></font></strong></h3>
+
+					</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong> 3.3</strong></h3></td>
+
+</tr>
+
+<tr>
+
+<td style="width: 500px;">
+
+					治理政策&nbsp;<button type="button" data-toggle="collapse" data-target="#collapsible15" class="btn btn-mini btn-theme btn-toggle" style="float: right;"><i class="icon-plus"></i></button>
+
+					<div class="collapse" id="collapsible15"> 
+
+                                   <p><strong>委托部署时决定（例如虚拟机的位置，虚拟机映像等）给外部的策略引擎的能力，该引擎将批准或拒绝某一阶段的工作流程。</strong></p>		
+
+                                  </div></td>
+
+<td style="width: 100px; text-align: center;">
+
+					&nbsp;</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong><font color="#66b11c"><i class="icon-ok"></i></font></strong></h3>
+
+					</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong> 3.3</strong></h3></td>
+
+</tr>
+
+<tr>
+
+<td style="width: 500px;">
+
+					AWS VPC插件&nbsp;<button type="button" data-toggle="collapse" data-target="#collapsible16" class="btn btn-mini btn-theme btn-toggle" style="float: right;"><i class="icon-plus"></i></button>
+
+					<div class="collapse" id="collapsible16"> 
+
+                                   <p><strong>支持部署在AWS VPC环境中的应用程序。</strong></p>		
+
+                                  </div></td>
+
+<td style="width: 100px; text-align: center;">
+
+					&nbsp;</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong><font color="#66b11c"><i class="icon-ok"></i></font></strong></h3>
+
+					</td>
+
+<td style="width: 100px; text-align: center;"><h3><strong> 3.3</strong></h3></td>
+
+</tr>
+
+
+
+</tbody>
+
+</table>
+
+
+
+<p>&nbsp;</p>
+
+<div class="aligncenter">
+
+立即下载<a class="btn btn-large btn-theme btn-rounded" id="downloadBtnInner" href="/downloads/get_cloudify_3x.html"><i class="icon-download"></i></a>
+
+							</div>
+
+
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+
+
+	<section id="content">
+
+	<div class="container">
+
+
 
 			<div class="row">
+
 				<div class="span10">
-						<h2><strong>Pricing</strong></h2>
+
+						<h2>定价<strong></strong></h2>
+
 						<p>
-						The cost of the Premium Edition is based on the number of nodes & support requirements of your organization. Get in touch to receive a quote.  Support packages are available to accompany the Free Edition - so be sure to ask about those as well.
+
+						在高级版的费用是根据您的组织的节点和支持要求的数量决定的。取得联系，获取报价。随免费版有可用支持包，所以一定要也询问那些。
+
 						</p>
+
 						</div>
+
 						<div class="span2">
+
 						<div class="aligncenter">
-						<a class="btn btn-large btn-theme btn-rounded" href="mailto:hello@getcloudify.org?subject=I%20want%20to%20hear%20more%20about%20Cloudify%20Premium"><i class="icon-envelope"></i>  Get In Touch</a>
-						
-						<a class="btn btn-large btn-green btn-rounded" href="brochures/Cloudify-Premium.pdf" target="_blank"><i class="icon-file"></i>  Spec Sheet</a></div>
-									</div>
+
+						取得联系<a class="btn btn-large btn-theme btn-rounded" href="mailto:hello@getcloudify.org?subject=I%20want%20to%20hear%20more%20about%20Cloudify%20Premium"><i class="icon-envelope"></i></a><br />
+
+						<p>&nbsp;</p>
+
+						规格表 (EN)<a class="btn btn-large btn-green btn-rounded" href="brochures/Cloudify-Premium.pdf" target="_blank"><i class="icon-file"></i></a></div>
 
 									</div>
+
+
+
+									</div>
+
+				
+
+
+
 				</div>
 
+
+
 			</div>
+
 </section> 
 
-						
+
+
+
+
+
+
+<br />
+
+
+</notextile> 

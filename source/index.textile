@@ -14,7 +14,7 @@ category: home
 			<div class="bannerText span12">
 				<h1> 云编排和自动化变得简单轻松</h1>
 				<h2> 在云上编排真实、复杂的应用 - 无需工具或者变更代码</h2>
-				<a href="/downloads/get_cloudify.html" class="hp-btn-getCloudify da-link">马上下载</a>
+				<a href="/downloads/get_cloudify_3x.html" class="hp-btn-getCloudify da-link">马上下载</a>
 			</div>
 			
 				<img  class="bannerTextImg" src="img/hpBanner2.png" alt="Cloudify - Cloud Orchestration and Cloud Automation" />
@@ -79,10 +79,10 @@ category: home
 			<div class="span6" style="margin-right: 30px;">
 		
 				<span style="font-size: 24px;vertical-align: -webkit-baseline-middle;padding-bottom: 10px;">
-					<strong><font color="#00B4DA">Cloudify 3.0</font> 已问世！</strong>
+					<strong><font color="#00B4DA">Cloudify 3</font> 已问世！</strong>
 				</span>
 				<span style="float: right;">
-					<a class="btn btn-large btn-theme btn-rounded" style="width:150px;" href="/guide/3.0"><i class="icon-bolt"></i><strong> 开始</strong></a>
+					<a class="btn btn-large btn-theme btn-rounded" style="width:150px;" href="/guide"><i class="icon-bolt"></i><strong> 开始</strong></a>
 				</span>
 			</div>
 		

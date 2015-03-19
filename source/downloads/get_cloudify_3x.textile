@@ -15,7 +15,7 @@ cat: User Guide
 					<li class="active">3.0</li>
 				</ul>
 				<br/>
-				<h1><i class="icon-download"></i>&nbsp;&nbsp;<strong>Cloudify 3.0 下载</strong></h1>	
+				<h1><i class="icon-download"></i>&nbsp;&nbsp;<strong>Cloudify 3.1 下载</strong></h1>	
 			</div>
 		</div>			
 	</div>
@@ -30,10 +30,10 @@ cat: User Guide
 						{%note%}以下Vagrant箱和Vagrant文件包含一个全面管理器和CLI安装。它们仅用作开始和演示目的，不得用于生产。{%endnote%}
 						<br/>
 						
-						<a href="http://gigaspaces-repository-eu.s3.amazonaws.com/org/cloudify3/3.0.1/ga-RELEASE/cloudify_3.0.1_virtualbox.box" class="btn btn-medium btn-theme btn-rounded download" data-btn-type="Vagrant Trial Download" onClick="javascript: _gaq.push(['_trackEvent', 'Product Download', '/downloads/cloudify_3.0.1_virtualbox.box/get_cloudify_3x']);"><i class="icon-30 icon-download-alt"></i>&nbsp;Vagrant箱(~1.5GB)</a> &nbsp;<a href="http://gigaspaces-repository-eu.s3.amazonaws.com/org/cloudify3/3.0.0/nightly_6/Vagrantfile" class="btn btn-medium btn-default btn-rounded download" data-btn-type="Vagrant Trial Download" onClick="javascript: _gaq.push(['_trackEvent', 'Product Download', '/downloads/cloudify3/3.0.0/nightly_6/Vagrantfile/get_cloudify_3x']);"><i class="icon-30 icon-download-alt"></i>&nbsp;Vagrant文件</a>
+						<a href="http://gigaspaces-repository-eu.s3.amazonaws.com/org/cloudify3/3.1.0/ga-RELEASE/cloudify-virtualbox_3.1.0-ga-b85.box" class="btn btn-medium btn-theme btn-rounded download" data-btn-type="Vagrant Trial Download" onClick="javascript: _gaq.push(['_trackEvent', 'Product Download', 'Vagrant Trial Download 3.1.0', 'Vagrant Trial Download 3.1.0 build 85 - Vagrant Box - CN']);"><i class="icon-30 icon-download-alt"></i>&nbsp;Vagrant箱(~1.5GB)</a> &nbsp;<a href="http://gigaspaces-repository-eu.s3.amazonaws.com/org/cloudify3/3.1.0/ga-RELEASE/Vagrantfile" class="btn btn-medium btn-default btn-rounded download" data-btn-type="Vagrant Trial Download" onClick="javascript: _gaq.push(['_trackEvent', 'Product Download', 'Vagrant Trial Download 3.1.0', 'Vagrant Trial Download 3.1.0 build 85 - Vagrant File - CN']);"><i class="icon-30 icon-download-alt"></i>&nbsp;Vagrant文件</a>
 						<br/>
 						<br/>
-						<p><strong>For more details on how to get started with them please follow the Cloudify 3.0 <a href="/guide/3.0/quickstart.html"><i class="icon-book"></i>开始向导</strong></a>.
+						<p><strong>For more details on how to get started with them please follow the Cloudify 3 <a href="/guide/3.1/quickstart.html"><i class="icon-book"></i>开始向导</strong></a>.
 						<br/>
 						</div>
 						</div>
@@ -43,12 +43,12 @@ cat: User Guide
 						<h2><strong><i class="icon icon-bolt"></i> Cloudify 完整安装</strong></h2>
 						<div class="testimonial" style="min-height:290px;">
 						<p><strong>Cloudify CLI 安装程序</strong></p>
-						<p>	CLI 安装程序能够安装Cloudify CLI并让您对Cloudify管理器进行引导，并与其互动和管理设计图及部署。请参阅<a href="/guide/3.0/guide-cli.html">CLI指南</a>获得更多详情。获得引导指导，请参阅针对您所选择的云的引导教程。</p>
-						<strong>若要在除以下列出外的操作系统上安装 CLI，请参阅<a href="/guide/3.0/guide-cli.html">CLI指南</a>。</strong>
+						<p>	CLI 安装程序能够安装Cloudify CLI并让您对Cloudify管理器进行引导，并与其互动和管理设计图及部署。请参阅<a href="/guide/3.1/guide-cli.html">CLI指南</a>获得更多详情。获得引导指导，请参阅针对您所选择的云的引导教程。</p>
+						<strong>若要在除以下列出外的操作系统上安装 CLI，请参阅<a href="/guide/3.1/guide-cli.html">CLI指南</a>。</strong>
 						
 						<br/>
 						<br/>
-							<a href="http://gigaspaces-repository-eu.s3.amazonaws.com/org/cloudify3/3.0.0/nightly_6/cloudify-cli_3.0.0-ga-b6_amd64.deb" class="btn btn-medium btn-theme btn-rounded download" data-btn-type="GA Product Download 3.0" onClick="javascript: _gaq.push(['_trackEvent', 'Product Download', 'Cloudify CLI Download', '/downloads/cloudify3/3.0.0/nightly_6/cloudify-cli_3.0.0-ga-b6_amd64.deb/get_cloudify_3x']);"><i class="icon-30 icon-download-alt"></i>&nbsp;Ubuntu/Debian 64</a>&nbsp;<a href="http://gigaspaces-repository-eu.s3.amazonaws.com/org/cloudify3/3.0.0/nightly_6/cloudify-cli_3.0.0-ga-b6_i386.deb" class="btn btn-medium btn-theme btn-rounded download" data-btn-type="GA Product Download 3.0" onClick="javascript: _gaq.push(['_trackEvent', 'Product Download', 'Cloudify CLI Download', '/downloads/cloudify3/3.0.0/nightly_6/cloudify-cli_3.0.0-ga-b6_i386.deb/get_cloudify_3x']);"><i class="icon-30 icon-download-alt"></i>&nbsp;Ubuntu/Debian 32</a>&nbsp;<a href="http://gigaspaces-repository-eu.s3.amazonaws.com/org/cloudify3/3.0.0/nightly_6/cloudify-cli_3.0.0-ga-b6.exe" class="btn btn-medium btn-theme btn-rounded download" data-btn-type="GA Product Download 3.0" onClick="javascript: _gaq.push(['_trackEvent', 'Product Download', 'Cloudify CLI Download', '/downloads/cloudify3/3.0.0/nightly_6/cloudify-cli_3.0.0-ga-b6.exe/get_cloudify_3x']);"><i class="icon-30 icon-download-alt"></i>&nbsp;Windows</a></br>
+							<a href="http://gigaspaces-repository-eu.s3.amazonaws.com/org/cloudify3/3.1.0/ga-RELEASE/cloudify-linux64-cli_3.1.0-ga-b85_amd64.deb" class="btn btn-medium btn-theme btn-rounded download" data-btn-type="GA Product Download 3.0" onClick="javascript: _gaq.push(['_trackEvent', 'Product Download', 'Cloudify CLI Download', 'Cloudify CLI Download 3.1.0 build 85 - Ubuntu/Debian 64 - CN']);"><i class="icon-30 icon-download-alt"></i>&nbsp;Ubuntu/Debian 64</a>&nbsp;<a href="http://gigaspaces-repository-eu.s3.amazonaws.com/org/cloudify3/3.1.0/ga-RELEASE/cloudify-linux32-cli_3.1.0-ga-b85_i386.deb" class="btn btn-medium btn-theme btn-rounded download" data-btn-type="GA Product Download 3.0" onClick="javascript: _gaq.push(['_trackEvent', 'Product Download', 'Cloudify CLI Download', 'Cloudify CLI Download 3.1.0 build 85 - Ubuntu/Debian 32 - CN']);"><i class="icon-30 icon-download-alt"></i>&nbsp;Ubuntu/Debian 32</a>&nbsp;<a href="http://gigaspaces-repository-eu.s3.amazonaws.com/org/cloudify3/3.1.0/ga-RELEASE/cloudify-windows-cli_3.1.0-ga-b85.exe" class="btn btn-medium btn-theme btn-rounded download" data-btn-type="GA Product Download 3.0" onClick="javascript: _gaq.push(['_trackEvent', 'Product Download', 'Cloudify CLI Download', 'Cloudify CLI Download 3.1.0 build 85 - Windows - CN']);"><i class="icon-30 icon-download-alt"></i>&nbsp;Windows</a></br>
 						
 							</div>			
 				
@@ -86,12 +86,14 @@ cat: User Guide
 					<div class="collapse" id="collapsible"> 
 			
 				<div class="well" style="min-height:200px;">
-									<a href="http://gigaspaces-repository-eu.s3.amazonaws.com/org/cloudify3/3.0.0/nightly_6/cloudify-core_3.0.0-ga-b6_amd64.deb" class="download" data-btn-type="Cloudify Manager Download" onClick="javascript: _gaq.push(['_trackEvent', 'Product Download', 'Cloudify Manager Download', '/downloads/cloudify3/3.0.0/nightly_6/cloudify-core_3.0.0-ga-b6_amd64.deb/get_cloudify_3x']);"><i class="icon-30 icon-download-alt"></i>&nbsp;核心 </a></br>
-									<a href="http://gigaspaces-repository-eu.s3.amazonaws.com/org/cloudify3/3.0.0/nightly_6/cloudify-components_3.0.0-ga-b6_amd64.deb" class="download" data-btn-type="Cloudify Manager Download" onClick="javascript: _gaq.push(['_trackEvent', 'Product Download', 'Cloudify Manager Download', '/downloads/cloudify3/3.0.0/nightly_6/cloudify-components_3.0.0-ga-b6_amd64.deb/get_cloudify_3x']);"><i class="icon-30 icon-download-alt"></i>&nbsp;组件</a></br>
-									<a href="http://gigaspaces-repository-eu.s3.amazonaws.com/org/cloudify3/3.0.0/nightly_6/cloudify-ubuntu-agent_3.0.0-ga-b6_amd64.deb" class="download" data-btn-type="Cloudify Manager Download" onClick="javascript: _gaq.push(['_trackEvent', 'Product Download', 'Cloudify Manager Download', '/downloads/cloudify3/3.0.0/nightly_6/cloudify-ubuntu-agent_3.0.0-ga-b6_amd64.deb/get_cloudify_3x']);"><i class="icon-30 icon-download-alt"></i>&nbsp;Ubuntu 代理</a></br>
-									<a href="http://gigaspaces-repository-eu.s3.amazonaws.com/org/cloudify3/3.0.0/nightly_6/cloudify-centos-agent_3.0.0-ga-b6_amd64.deb" class="download" data-btn-type="Cloudify Manager Download" onClick="javascript: _gaq.push(['_trackEvent', 'Product Download', 'Cloudify Manager Download', '/downloads/cloudify3/3.0.0/nightly_6/cloudify-centos-agent_3.0.0-ga-b6_amd64.deb/get_cloudify_3x']);"><i class="icon-30 icon-download-alt"></i>&nbsp;CentOS 代理</a></br>
-									<a href="http://gigaspaces-repository-eu.s3.amazonaws.com/org/cloudify3/3.0.0/nightly_6/cloudify-windows-agent_3.0.0-ga-b6_amd64.deb" class="download" data-btn-type="Cloudify Manager Download" onClick="javascript: _gaq.push(['_trackEvent', 'Product Download', 'Cloudify Manager Download', '/downloads/cloudify3/3.0.0/nightly_6/cloudify-windows-agent_3.0.0-ga-b6_amd64.deb/get_cloudify_3x']);"><i class="icon-30 icon-download-alt"></i>&nbsp;Windows 代理</a></br>
-									<a href="http://gigaspaces-repository-eu.s3.amazonaws.com/org/cloudify3/3.0.1/ga-RELEASE/cloudify-ui_3.0.1-ga-b6_amd64.deb" class="download" data-btn-type="Cloudify Manager Download" onClick="javascript: _gaq.push(['_trackEvent', 'Product Download', 'Cloudify Manager Download', '/downloads/cloudify3/3.0.1/ga-RELEASE/cloudify-ui_3.0.1-ga-b6_amd64.deb/get_cloudify_3x']);"><i class="icon-30 icon-download-alt"></i>&nbsp;UI</a></br>
+									<a href="http://gigaspaces-repository-eu.s3.amazonaws.com/org/cloudify3/3.1.0/ga-RELEASE/cloudify-core_3.1.0-ga-b85_amd64.deb" class="download" data-btn-type="Cloudify Manager Download" onClick="javascript: _gaq.push(['_trackEvent', 'Product Download', 'Cloudify Manager Download', 'Cloudify Manager Download 3.1.0 build 85 - Core Package - CN']);"><i class="icon-30 icon-download-alt"></i>&nbsp;核心 </a></br>
+									<a href="http://gigaspaces-repository-eu.s3.amazonaws.com/org/cloudify3/3.1.0/ga-RELEASE/cloudify-components_3.1.0-ga-b85_amd64.deb" class="download" data-btn-type="Cloudify Manager Download" onClick="javascript: _gaq.push(['_trackEvent', 'Product Download', 'Cloudify Manager Download', 'Cloudify Manager Download 3.1.0 build 85 - Components Package - CN']);"><i class="icon-30 icon-download-alt"></i>&nbsp;组件</a></br>
+									<a href="http://gigaspaces-repository-eu.s3.amazonaws.com/org/cloudify3/3.1.0/ga-RELEASE/cloudify-ubuntu-agent_3.1.0-ga-b85_amd64.deb" class="download" data-btn-type="Cloudify Manager Download" onClick="javascript: _gaq.push(['_trackEvent', 'Product Download', 'Cloudify Manager Download', 'Cloudify Manager Download 3.1.0 build 85 - Ubuntu Agent - CN']);"><i class="icon-30 icon-download-alt"></i>&nbsp;Ubuntu 代理</a></br>
+									<a href="http://gigaspaces-repository-eu.s3.amazonaws.com/org/cloudify3/3.1.0/ga-RELEASE/cloudify-centos-final-agent_3.1.0-ga-b85_amd64.deb" class="download" data-btn-type="Cloudify Manager Download" onClick="javascript: _gaq.push(['_trackEvent', 'Product Download', 'Cloudify Manager Download', 'Cloudify Manager Download 3.1.0 build 85 - CentOS Agent - CN']);"><i class="icon-30 icon-download-alt"></i>&nbsp;CentOS 代理</a></br>
+									<a href="http://gigaspaces-repository-eu.s3.amazonaws.com/org/cloudify3/3.1.0/ga-RELEASE/cloudify-windows-agent_3.1.0-ga-b85_amd64.deb" class="download" data-btn-type="Cloudify Manager Download" onClick="javascript: _gaq.push(['_trackEvent', 'Product Download', 'Cloudify Manager Download', 'Cloudify Manager Download 3.1.0 build 85 - Windows Agent - CN']);"><i class="icon-30 icon-download-alt"></i>&nbsp;Windows 代理</a></br>
+									<a href="http://gigaspaces-repository-eu.s3.amazonaws.com/org/cloudify3/3.1.0/ga-RELEASE/cloudify-ui_3.1.0-ga-b85_amd64.deb" class="download" data-btn-type="Cloudify Manager Download" onClick="javascript: _gaq.push(['_trackEvent', 'Product Download', 'Cloudify Manager Download', 'Cloudify Manager Download 3.1.0 build 85 - UI Package - CN']);"><i class="icon-30 icon-download-alt"></i>&nbsp;UI</a></br>
+									<a href="http://gigaspaces-repository-eu.s3.amazonaws.com/org/cloudify3/3.1.0/ga-RELEASE/cloudify-docker_3.1.0-ga-b85.tar" class="download" data-btn-type="Cloudify Manager Download" onClick="javascript: _gaq.push(['_trackEvent', 'Product Download', 'Cloudify Manager Download', 'Cloudify Manager Download 3.1.0 build 85 - Docker Image - CN']);"><i class="icon-30 icon-download-alt"></i>&nbsp;Docker镜像</a></br>
+									<a href="http://gigaspaces-repository-eu.s3.amazonaws.com/org/cloudify3/3.1.0/ga-RELEASE/cloudify-docker-data_3.1.0-ga-b85.tar" class="download" data-btn-type="Cloudify Manager Download" onClick="javascript: _gaq.push(['_trackEvent', 'Product Download', 'Cloudify Manager Download', 'Cloudify Manager Download 3.1.0 build 85 - Docker Data Image - CN']);"><i class="icon-30 icon-download-alt"></i>&nbsp;Docker数据镜像</a></br>
 									<p><strong>请参阅 <a href="/guide/3.0/installation-general.html">Cloudify 安装页</a> 获得更多关于各程序包的详细信息。</strong></p>
 									
 							</div>
@@ -106,7 +108,7 @@ cat: User Guide
 				
 				
 					<div class="text" style="text-align: left;">
-								<p>	大多数Cloudify 3.0组件（除作为商业组件的UI）都获得Apache 2.0 许可，并按代码名称Cosmo在Github上进行管理（我们就是喜欢<a href="http://en.wikipedia.org/wiki/Cosmo_Kramer">Kramer</a>，我们能怎么办呢。） </p>
+								<p>	大多数Cloudify 3组件（除作为商业组件的UI）都获得Apache 2.0 许可，并按代码名称Cosmo在Github上进行管理（我们就是喜欢<a href="http://en.wikipedia.org/wiki/Cosmo_Kramer">Kramer</a>，我们能怎么办呢。） </p>
 						
 						<p>欢迎您克隆和分叉这个代码，并提交“拉”请求。</p>
 										<div class="aligncenter">
@@ -133,7 +135,7 @@ cat: User Guide
 			<p><strong>当心！</strong> 您可以下载：</p>
 			<ul>
 			<li>
-			<p>Our <a href="get_cloudify_2x.html">之前的版本</a>在这里。</p></li>
+			<p>Our <a href="get_cloudify_3x.html">之前的版本</a>在这里。</p></li>
 			<li>
 			<p>Our <a href="early_access.html">里程碑版本</a>在这里。</p></li>
 
@@ -267,7 +269,7 @@ function track_download(downloadHref) {
        	//track mixpanel
 		var zipName="";
 		zipName=downloadHref.split("/")[7]; 
-		mixpanel.track(dataBtnName, {'Zip Name':zipName, 'Source':'cloudifysource.org'});
+		mixpanel.track(dataBtnName, {'Zip Name':zipName, 'Source':'getcloudify.cn'});
 		if(mixpanel.cookie.props.__alias==undefined){
             formEmail =  $(".gattingWrapper #email").val();	
             formName =  $(".gattingWrapper #last_name").val();
@@ -288,7 +290,7 @@ function track_download(downloadHref) {
 		$created: new Date(),
 		$last_seen:new Date(),
 		});
-		mixpanel.track('Resource', {'Zip Name':zipName, 'Source':'Download Page'});
+		mixpanel.track('Resource - CN', {'Zip Name':zipName, 'Source':'Download Page CN'});
 		mixpanel.people.increment({
 			"Number Of Downloads": 1
 		}); 
