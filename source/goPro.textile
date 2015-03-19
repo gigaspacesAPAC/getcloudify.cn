@@ -1,4 +1,10 @@
-﻿---布局：bt_about标题：高级Cloudify|Go Pro类别：Go Pro--- <notextile>
+﻿---
+layout: bt_about
+title: Cloudify Premium | Go Pro 高级
+category: Go Pro
+---
+
+<notextile>
 
 
 
