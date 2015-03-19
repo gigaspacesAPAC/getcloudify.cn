@@ -17,7 +17,8 @@ category: home
 				<a href="/downloads/get_cloudify_3x.html" class="hp-btn-getCloudify da-link">马上下载</a>
 			</div>
 			
-				<img  class="bannerTextImg" src="img/hpBanner2.png" alt="Cloudify - Cloud Orchestration and Cloud Automation" />
+				<a class="hover-wrap fancybox fancybox.iframe" data-fancybox-group="gallery" title="在OpenStack云上Cloudify 您的应用" href="http://player.youku.com/player.php/sid/XOTE1MzgwMjcy/v.swf?enablejsapi=1&wmode=opaque">
+								<img src="img/AboutThumbnail.png" alt="" /><img  class="bannerTextImg" src="img/hpBanner2.png" alt="Cloudify - Cloud Orchestration and Cloud Automation" /></a>
 		</div>
 	</div>
 	</div>
