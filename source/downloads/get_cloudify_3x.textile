@@ -135,9 +135,9 @@ cat: User Guide
 			<p><strong>当心！</strong> 您可以下载：</p>
 			<ul>
 			<li>
-			<p>Our <a href="get_cloudify_3x.html">之前的版本</a>在这里。</p></li>
+			<p>Our <a href="http://getcloudify.org/downloads/previous_ga_versions_3x.html">之前的版本</a>在这里。</p></li>
 			<li>
-			<p>Our <a href="early_access.html">里程碑版本</a>在这里。</p></li>
+			<p>Our <a href="http://getcloudify.org/downloads/early_access.html">里程碑版本</a>在这里。</p></li>
 
 			</div>
 			</div>
