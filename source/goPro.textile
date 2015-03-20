@@ -1,6 +1,6 @@
-﻿---
+---
 layout: bt_about
-title: Cloudify Premium | Go Pro 高级
+title: Cloudify Premium - Go Pro 高级
 category: Go Pro
 ---
 
